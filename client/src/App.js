@@ -53,7 +53,7 @@ function App() {
                      <TableCell>이미지</TableCell>
                      <TableCell>이름</TableCell>
                      <TableCell>생년월일</TableCell>
-                     <TableCell>성별</TableCell>
+                     <TableCell>성별dd</TableCell>
                      <TableCell>직업</TableCell>
                   </TableRow>
                </TableHead>
