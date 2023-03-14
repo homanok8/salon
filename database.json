@@ -1,7 +1,7 @@
 {
-   "host": "manage.cjofvpiimofp.ap-northeast-1.rds.amazonaws.com",
+   "host": "management.c4f1sqhcxqtq.ap-northeast-2.rds.amazonaws.com",
    "user": "admin",
    "password": "tmdgus9471",
    "port": "3306",
-   "database": "manage"
+   "database": "management"
 }
