@@ -31,7 +31,7 @@ function CustomerAdd() {
          job: '',
       });
 
-      window.location.reload();
+      // window.location.reload();
    };
 
    const addCustomer = () => {
