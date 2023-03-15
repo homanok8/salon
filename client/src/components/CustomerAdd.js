@@ -68,7 +68,7 @@ function CustomerAdd() {
 
    return (
       <form onSubmit={handleFormSubmit}>
-         <h1>고객 추가</h1>
+         <h1>고객 추가 서버자동 반영확인필요</h1>
          프로필 이미지:
          <input
             type="file"
